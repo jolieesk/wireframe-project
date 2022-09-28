@@ -1,0 +1,169 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.jumbotron-image {
+  background-image: url("/images/macbook.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.textt{
+  color: #787878;
+  text-align: right;
+}
+.btn-primary{
+  border:8px solid #10C9C3;
+  background-color:#10C9C3;
+  border-color:#10C9C3;
+  background-color:#10C9C3;
+}
+.title{
+  text-align: center;
+  font-family: 'Nunito Sans';
+}
+.para{
+  text-align: center;
+  color:#787878;
+}
+.float-right{
+  text-align: right;
+}
+
+.comp-chair{
+   background-image: url("images/macbook.png");
+   height: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clear{
+  background-color: none;
+}
+
+.clear{
+    background: rgba(0, 0, 0, 0.0);
+}
+.jumbotron clear j-m{
+  font-family: 'Nunito Sans';
+  color: #787878;
+}
+.paragraph{
+  color: #787878;
+}
+.title{
+  padding-top: 70px;
+}
+.we{
+  padding-top: 80px;
+}
+.para{
+    padding-top: 20px;
+    font-family: 'Nunito Sans';
+  font-size: 15px;
+}
+.sign{
+  padding-top: 50px;
+}
+.oil{
+  margin:none;
+  padding:none;
+  height: 100%;
+  width:100%;
+}
+
+.progress-bar-blue {
+      background-color: #10C9C3 !important;
+}
+
+.hazel{
+  color:white;
+}
+
+.limit{
+        height: auto;
+        max-height: 500px;
+        overflow: hidden;
+}
+.limit img{
+       width: 100%;
+       height: 100%;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.jolie{
+  height: 100px;
+}
+
+.progress-bar-blue {
+      background-color: #10C9C3 !important;
+}
+
+
+.hazel{
+  background-color:#10C9C3 !important;
+}
+.limit{
+        height: auto;
+        max-height: 500px;
+        overflow: hidden;
+}
+.limit img{
+       width: 100%;
+       height: 100%;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #181818;
+}
+
+.container:hover .overlay {
+  opacity: .8;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.comp{
+  font-family: 'Nunito Sans';
+}
+.card-text{
+  color: #787878;
+  font-family: 'Nunito Sans';
+}
+.card-title{
+  font-family: 'Nunito Sans';
+}
+.job{
+   font-family: 'Nunito Sans';
+}
+.nav-link{
+  font-family: 'Nunito Sans';
+  color: #141414;
+}
